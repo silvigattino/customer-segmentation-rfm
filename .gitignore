@@ -1,0 +1,19 @@
+# Data (download from UCI, see README)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
