@@ -168,4 +168,4 @@ Python · pandas · NumPy · scikit-learn · SciPy · Matplotlib · Seaborn · J
 
 ---
 
-**Author:** [Your Name] · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Author:** Silvina Gattino
